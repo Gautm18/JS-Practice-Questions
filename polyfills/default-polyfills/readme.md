@@ -17,3 +17,7 @@ call() and apply() execute immediately, while bind() returns a new function with
 | map    | Transform each item | New array    |
 | filter | Keep/reject items   | New array    |
 | reduce | Combine all values  | Single value |
+
+=====================================================================================================================
+
+#### Arrow functions ignore call, apply, and bind.

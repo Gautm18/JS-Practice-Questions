@@ -50,15 +50,15 @@
 
 //assigning a method to a variable and then calling it.
 
-const user = {
-  name: "Gautam",
-  greet() {
-    console.log(this.name);
-  },
-};
+// const user = {
+//   name: "Gautam",
+//   greet() {
+//     console.log(this.name);
+//   },
+// };
 
-const fn = user.greet;
-fn();
+// const fn = user.greet;
+// fn();
 
 //=======================================================================================
 
